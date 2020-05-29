@@ -4,7 +4,7 @@
 
             👀Presents👀
 
-✨ONLINE TREASURE HUNT✨
+<strong>✨ONLINE TREASURE HUNT✨</strong>
 
 where the speed of your surfing on web 🪀♌ and sharpness of your mind will make you grab amazing cash prizes💴💵💶
 
