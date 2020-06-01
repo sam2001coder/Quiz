@@ -13,4 +13,4 @@ Pull up your socks guys, it's play time🪁😋
 Click on the given link to proceed further for the quiz:
 
 
-<a href="https://quizizz.com/join/"> Play Quiz </a>
+<a href="https://quizizz.com/join/"> <button>Play Quiz </button></a>
